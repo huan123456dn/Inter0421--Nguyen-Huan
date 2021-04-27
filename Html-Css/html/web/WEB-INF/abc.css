@@ -1,0 +1,53 @@
+.bai2{
+    color: red;
+}
+.mau2{
+    color: blueviolet;
+
+}
+.mau3{
+    color: white;
+    background: deeppink;
+}
+.mau4{
+    color: blue;
+}
+.mau5{
+    color: red;
+}
+.mau6{
+    background-color: yellow;
+}
+.mau7{
+    background-color: brown;
+    color: yellow;
+}
+
+.bg{
+    background-color: brown;
+
+}
+
+.chen{
+    position: absolute;
+}
+.mau8{
+    background-color: brown;
+    color: white;
+}
+.bg1{
+    background-image: url("anh/tuyet.jpg");
+}
+.mau9{
+    color:blueviolet;
+    background-color:cornflowerblue ;
+    font-weight: bold;
+    font-style: oblique;
+}
+.nc{
+    font-style: oblique;
+}
+.lechphai{
+    margin-left: 70px;
+    text-align: center;
+}
